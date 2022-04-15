@@ -1,1 +1,0 @@
-This section will be filled with material as soon as taken
