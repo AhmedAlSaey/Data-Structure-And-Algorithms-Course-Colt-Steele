@@ -1,0 +1,3 @@
+Sorting animation: https://www.toptal.com/developers/sorting-algorithms
+JS sort documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+Visualize sorting: https://visualgo.net/en/sorting
